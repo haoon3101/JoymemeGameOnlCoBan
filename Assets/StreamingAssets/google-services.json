@@ -1,0 +1,24 @@
+{
+  "project_info": {
+    "project_number": "500701485598",
+    "firebase_url": "https://joymeme-8c15d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "joymeme-8c15d",
+    "storage_bucket": "joymeme-8c15d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500701485598:web:844536cecb4ae066d46c0f",
+        "android_client_info": {
+          "package_name": "com.company.joymeme.desktop"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNcAbbCan1YnThYM4tB6FC2XP-g-CS_5w"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}

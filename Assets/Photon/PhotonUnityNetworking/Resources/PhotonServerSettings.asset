@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 9d4d89d9-3ea3-413f-9153-a22db7864f29
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: asia
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - SyncPosition
+  - StartGame
+  - UpdatePlayerName
+  - SetPlayerName
+  - RollDice
+  - SendRollToOthers
+  - RPC_AddUnitToLane
+  - RPC_AddUnit
+  - RPC_Initialize
+  - RPC_DrawCardForOwner
+  - DrawCardForPlayer
+  - StartGameWithFirstPlayer
+  - SetPhaseTextRPC
+  - ToggleEndPhaseButton
+  - DrawCardForAllPlayers
+  - HideEndPhaseButtonRPC
+  - SetEndPhaseButtonActive
+  - SetPhaseEndedRPC
+  - StartGameRPC
+  - RPC_SetTurn
+  - RPC_SetPhase
+  - AssignPlayerOrderRPC
+  - RPC_EndGame
+  - TakeDamage
+  - UpdatePlayerHealthRPC
+  - OnPlayerDefeatedRPC
+  - RequestUnitDestroyRPC
+  - RPC_SetHealth
+  - RPC_SetRound
+  - RPC_SetMana
+  - RPC_RequestCardDeploy
+  - RPC_RequestUnitSpawn
+  - RPC_RemoveCardFromHand
+  - RPC_RequestPlayUnit
+  - RPC_ConfirmPlaySuccess
+  - RPC_PlayAnimation
+  - RPC_ConfirmCardPlay
+  - RPC_PlayDamagedReaction
+  - RPC_ApplyCombatResult
+  - RPC_NotifyDamageDone
+  - RPC_TakeDamageWithAnimation
+  - RPC_DamageResponse
+  - RPC_TakePlayerDamage
+  - RPC_ShatterWall
+  - RPC_TriggerWallFade
+  - DealtDmgNotifyRPC
+  - RPC_ResetHasDealtDamage
+  - RPC_NotifyWallHit
+  - RPC_ApplySpellEffect
+  - RPC_RevertStats
+  - Initialize
+  - RPC_ClearLaneHighlights
+  - RPC_HighlightLane
+  - RPC_DrawCardForPlayer
+  - RPC_RequestPlaySpell
+  - RPC_PlayVisualEffects
+  - RPC_InitializeMatrix
+  - InitializeDeck
+  - RPC_InitializeDeck
+  - TurnOffStateText
+  - RPC_MapAnimation
+  - TurnSlide
+  - RPC_TurnSlide
+  - RPC_AnnouncePhase
+  - RPC_AddCardToOpponentHand
+  - RPC_RemoveCardFromOpponentHand
+  - RPC_PlayHitSound
+  - RPC_PlayCardHitSound
+  - RPC_PlayWallHitSound
+  - RPC_PlayShatterSound
+  - RPC_PlayCardHitEffect
+  - RPC_StartDissolve
+  - RPC_PlayerSurrender
+  DisableAutoOpenWizard: 1
+  ShowSettings: 0
+  DevRegionSetOnce: 1

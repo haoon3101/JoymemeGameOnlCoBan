@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fcbc3d53cd41446a41bf4b906ac076, type: 3}
+  m_Name: 1006_Gold Scammer
+  m_EditorClassIdentifier: 
+  cardId: 1006
+  cardName: Gold Scammer
+  description: U expext goods from this guy but all u get is bullcrap
+  abilityDescription: 
+  cardImage: {fileID: 21300000, guid: 9519a46c7151fe147b904ca59ba4b27b, type: 3}
+  manaCost: 3
+  health: 4
+  attack: 4
+  cardType: 0
+  unitPrefab: {fileID: 2470140582862373305, guid: db58b643ee2bdfc4dbb002cf942f352a,
+    type: 3}
+  spellEffect: {fileID: 0}

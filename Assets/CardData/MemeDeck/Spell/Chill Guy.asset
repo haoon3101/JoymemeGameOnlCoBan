@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fcbc3d53cd41446a41bf4b906ac076, type: 3}
+  m_Name: Chill Guy
+  m_EditorClassIdentifier: 
+  cardId: 2104
+  cardName: Chill Guy
+  description: 
+  abilityDescription: This chill bro increases the ATK of one of your units by 1.
+  cardImage: {fileID: 21300000, guid: a7b0a82f89f06d24b8ebe39e8f4a0a0f, type: 3}
+  manaCost: 1
+  health: 0
+  attack: 0
+  cardType: 1
+  unitPrefab: {fileID: 2470140582862373305, guid: db58b643ee2bdfc4dbb002cf942f352a,
+    type: 3}
+  spellEffect: {fileID: 11400000, guid: f0be89b23712b0c429250ebb7adce953, type: 2}

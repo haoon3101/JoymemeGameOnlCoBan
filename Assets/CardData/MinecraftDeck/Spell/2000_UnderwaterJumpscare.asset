@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fcbc3d53cd41446a41bf4b906ac076, type: 3}
+  m_Name: 2000_UnderwaterJumpscare
+  m_EditorClassIdentifier: 
+  cardId: 2000
+  cardName: Ocean Jumpscare
+  description: Scare the crap out you when travelling oceans
+  abilityDescription: Nullify the attack of 1 enemy unit with 3 ATK or less.
+  cardImage: {fileID: 21300000, guid: dcd2717089bb5894ba95c73c179390c7, type: 3}
+  manaCost: 3
+  health: 0
+  attack: 0
+  cardType: 1
+  unitPrefab: {fileID: 2470140582862373305, guid: db58b643ee2bdfc4dbb002cf942f352a,
+    type: 3}
+  spellEffect: {fileID: 11400000, guid: ae6c3b356d7452f408c25e8ffe874cb6, type: 2}
